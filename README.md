@@ -39,5 +39,6 @@ StockSight is a stock market analysis system that leverages **segment trees** to
 - **Frontend**: Graphs and tables for visualization
 - **Backend**: Efficient storage and query processing with segment trees
 
+![Poster](Poster.jpg)
 
 
